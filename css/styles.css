@@ -523,10 +523,6 @@ nav h1 a {
     width: 100%;
   }
 
-  #reviews-list li {
-    width: calc((100% - 40px) / 2);
-  }
-
   #restaurant-hours td {
     letter-spacing: 2px;
   }
